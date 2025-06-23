@@ -1,0 +1,16 @@
+{
+  "short_name": "USKO Pitch",
+  "name": "USKO-Geodis SCO USA Pitch Deck",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/J2ME1ji.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ce1126",
+  "background_color": "#ffffff"
+} 
