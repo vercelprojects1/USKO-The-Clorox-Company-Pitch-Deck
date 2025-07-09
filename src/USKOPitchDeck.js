@@ -551,10 +551,10 @@ const slides = [
     </div>
   </section>,
 
-  // Dell Technologies Custom Slide
+  // The Clorox Company Custom Slide
   <section className="flex flex-col justify-center items-center p-6 bg-white">
     <div className="max-w-6xl mx-auto w-full">
-              <h1 className="text-4xl md:text-5xl font-extrabold text-[#0b5dda] mb-2 text-center tracking-tight">Partnering with <span className="text-black">Dell Technologies</span></h1>
+              <h1 className="text-4xl md:text-5xl font-extrabold text-[#0b5dda] mb-2 text-center tracking-tight">Partnering with <span className="text-black">The Clorox Company</span></h1>
       <h2 className="text-xl md:text-2xl text-gray-700 mb-5 text-center max-w-2xl mx-auto font-semibold">Custom Logistics Solutions for Your Business</h2>
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
